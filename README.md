@@ -1,5 +1,5 @@
 # MesadaDigital
 
-De programadores para programadores
+By programadores 
 
 
